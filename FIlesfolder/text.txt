@@ -1,0 +1,2 @@
+Population India: 10000
+Population UK: 200
